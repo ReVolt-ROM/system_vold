@@ -9,7 +9,6 @@ common_src_files := \
 	Volume.cpp \
 	DirectVolume.cpp \
 	AutoVolume.cpp \
-	logwrapper.c \
 	Process.cpp \
 	Ext4.cpp \
 	Fat.cpp \
